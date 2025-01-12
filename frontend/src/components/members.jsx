@@ -34,7 +34,7 @@ const membersData = [
     id: 4,
     img: MembersPhotos.PayalPachorkar,
     name: "Payal Pachorkar",
-    info: "Placement Coordinator",
+    info: "Placement Co-ordinator",
     insta: "https://www.instagram.com/payal_pachorkar_",
     mail: "payalpachorkar0208@gmail.com",
   },
@@ -237,6 +237,14 @@ const membersData = [
     info: "President",
     insta: "https://www.instagram.com/surajyeola",
     mail: "syyeola370122@kkwagh.edu.in",
+  },
+  {
+    id: 30,
+    img: MembersPhotos.SarthSatpute,
+    name: "Sarth Satpute",
+    info: "Placement Co-ordinator",
+    insta: "skanda_18",
+    mail: "sarthsatpute2@gmail.com",
   },
 ];
 

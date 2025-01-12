@@ -18,6 +18,7 @@ export { default as SakshiMalpure } from './SakshiMalpure.jpg';
 export { default as SakshiNehe } from './SakshiNehe.jpg';
 export { default as SamruddhiDharne } from './SamruddhiDharne.jpg';
 export { default as SamyakRaka } from './SamyakRaka.jpg';
+export { default as SarthSatpute } from './SarthSatpute.jpg';
 export { default as SharvariPawar } from './SharvariPawar.jpg';
 export { default as ShravaniPawar } from './ShravaniPawar.jpg';
 export { default as SiddhiKarwar } from './SiddhiKarwar.jpg';
